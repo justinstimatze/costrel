@@ -1,0 +1,18 @@
+{
+  "name": "costrel",
+  "description": "A discipline for handing a bounded sub-task to a more expensive consultant model mid-task — manual trigger, dense six-field brief, closed-book dispatch. Ships the costrel skill and the costrel-consultant agent type.",
+  "author": {
+    "name": "Justin Stimatze",
+    "url": "https://github.com/justinstimatze"
+  },
+  "homepage": "https://github.com/justinstimatze/costrel",
+  "repository": "https://github.com/justinstimatze/costrel",
+  "license": "MIT",
+  "keywords": [
+    "claude-code-skill",
+    "subagent",
+    "model-routing",
+    "closed-book",
+    "brief-template"
+  ]
+}

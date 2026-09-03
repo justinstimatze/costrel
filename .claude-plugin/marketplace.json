@@ -1,0 +1,15 @@
+{
+  "name": "costrel",
+  "owner": {
+    "name": "Justin Stimatze"
+  },
+  "description": "A discipline for handing a bounded sub-task to a more expensive consultant model mid-task — manual trigger, dense six-field brief, closed-book dispatch. Skill plus a dedicated no-tools agent type.",
+  "plugins": [
+    {
+      "name": "costrel",
+      "description": "Trigger checklist (stakes / range) and six-field brief template for a closed-book consult, plus the costrel-consultant agent type it dispatches to.",
+      "source": ".",
+      "strict": true
+    }
+  ]
+}
